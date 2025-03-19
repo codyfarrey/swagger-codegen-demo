@@ -1,0 +1,126 @@
+
+
+# PortfolioSummary
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**accountcode** | [**PortfolioSummaryAccountcode**](PortfolioSummaryAccountcode.md) |  |  [optional] |
+|**accountready** | [**PortfolioSummaryAccountready**](PortfolioSummaryAccountready.md) |  |  [optional] |
+|**accounttype** | [**PortfolioSummaryAccounttype**](PortfolioSummaryAccounttype.md) |  |  [optional] |
+|**accruedcash** | [**PortfolioSummaryAccruedcash**](PortfolioSummaryAccruedcash.md) |  |  [optional] |
+|**accruedcashC** | [**PortfolioSummaryAccruedcashC**](PortfolioSummaryAccruedcashC.md) |  |  [optional] |
+|**accruedcashS** | [**PortfolioSummaryAccruedcashS**](PortfolioSummaryAccruedcashS.md) |  |  [optional] |
+|**accrueddividend** | [**PortfolioSummaryAccrueddividend**](PortfolioSummaryAccrueddividend.md) |  |  [optional] |
+|**accrueddividendC** | [**PortfolioSummaryAccrueddividendC**](PortfolioSummaryAccrueddividendC.md) |  |  [optional] |
+|**accrueddividendS** | [**PortfolioSummaryAccrueddividendS**](PortfolioSummaryAccrueddividendS.md) |  |  [optional] |
+|**availablefunds** | [**PortfolioSummaryAvailablefunds**](PortfolioSummaryAvailablefunds.md) |  |  [optional] |
+|**availablefundsC** | [**PortfolioSummaryAvailablefundsC**](PortfolioSummaryAvailablefundsC.md) |  |  [optional] |
+|**availablefundsS** | [**PortfolioSummaryAvailablefundsS**](PortfolioSummaryAvailablefundsS.md) |  |  [optional] |
+|**availabletotrade** | [**PortfolioSummaryAvailabletotrade**](PortfolioSummaryAvailabletotrade.md) |  |  [optional] |
+|**availabletotradeC** | [**PortfolioSummaryAvailabletotradeC**](PortfolioSummaryAvailabletotradeC.md) |  |  [optional] |
+|**availabletotradeS** | [**PortfolioSummaryAvailabletotradeS**](PortfolioSummaryAvailabletotradeS.md) |  |  [optional] |
+|**availabletowithdraw** | [**PortfolioSummaryAvailabletowithdraw**](PortfolioSummaryAvailabletowithdraw.md) |  |  [optional] |
+|**availabletowithdrawC** | [**PortfolioSummaryAvailabletowithdrawC**](PortfolioSummaryAvailabletowithdrawC.md) |  |  [optional] |
+|**availabletowithdrawS** | [**PortfolioSummaryAvailabletowithdrawS**](PortfolioSummaryAvailabletowithdrawS.md) |  |  [optional] |
+|**billable** | [**PortfolioSummaryBillable**](PortfolioSummaryBillable.md) |  |  [optional] |
+|**billableC** | [**PortfolioSummaryBillableC**](PortfolioSummaryBillableC.md) |  |  [optional] |
+|**billableS** | [**PortfolioSummaryBillableS**](PortfolioSummaryBillableS.md) |  |  [optional] |
+|**buyingpower** | [**PortfolioSummaryBuyingpower**](PortfolioSummaryBuyingpower.md) |  |  [optional] |
+|**columnprioC** | [**PortfolioSummaryColumnprioC**](PortfolioSummaryColumnprioC.md) |  |  [optional] |
+|**columnprioS** | [**PortfolioSummaryColumnprioS**](PortfolioSummaryColumnprioS.md) |  |  [optional] |
+|**cushion** | [**PortfolioSummaryCushion**](PortfolioSummaryCushion.md) |  |  [optional] |
+|**daytradesremaining** | [**PortfolioSummaryDaytradesremaining**](PortfolioSummaryDaytradesremaining.md) |  |  [optional] |
+|**daytradesremainingtPlus1** | [**PortfolioSummaryDaytradesremainingt1**](PortfolioSummaryDaytradesremainingt1.md) |  |  [optional] |
+|**daytradesremainingtPlus2** | [**PortfolioSummaryDaytradesremainingt2**](PortfolioSummaryDaytradesremainingt2.md) |  |  [optional] |
+|**daytradesremainingtPlus3** | [**PortfolioSummaryDaytradesremainingt3**](PortfolioSummaryDaytradesremainingt3.md) |  |  [optional] |
+|**daytradesremainingtPlus4** | [**PortfolioSummaryDaytradesremainingt4**](PortfolioSummaryDaytradesremainingt4.md) |  |  [optional] |
+|**daytradingstatusS** | [**PortfolioSummaryDaytradingstatusS**](PortfolioSummaryDaytradingstatusS.md) |  |  [optional] |
+|**depositoncredithold** | [**PortfolioSummaryDepositoncredithold**](PortfolioSummaryDepositoncredithold.md) |  |  [optional] |
+|**equitywithloanvalue** | [**PortfolioSummaryEquitywithloanvalue**](PortfolioSummaryEquitywithloanvalue.md) |  |  [optional] |
+|**equitywithloanvalueC** | [**PortfolioSummaryEquitywithloanvalueC**](PortfolioSummaryEquitywithloanvalueC.md) |  |  [optional] |
+|**equitywithloanvalueS** | [**PortfolioSummaryEquitywithloanvalueS**](PortfolioSummaryEquitywithloanvalueS.md) |  |  [optional] |
+|**excessliquidity** | [**PortfolioSummaryExcessliquidity**](PortfolioSummaryExcessliquidity.md) |  |  [optional] |
+|**excessliquidityC** | [**PortfolioSummaryExcessliquidityC**](PortfolioSummaryExcessliquidityC.md) |  |  [optional] |
+|**excessliquidityS** | [**PortfolioSummaryExcessliquidityS**](PortfolioSummaryExcessliquidityS.md) |  |  [optional] |
+|**fullavailablefunds** | [**PortfolioSummaryFullavailablefunds**](PortfolioSummaryFullavailablefunds.md) |  |  [optional] |
+|**fullavailablefundsC** | [**PortfolioSummaryFullavailablefundsC**](PortfolioSummaryFullavailablefundsC.md) |  |  [optional] |
+|**fullavailablefundsS** | [**PortfolioSummaryFullavailablefundsS**](PortfolioSummaryFullavailablefundsS.md) |  |  [optional] |
+|**fullexcessliquidity** | [**PortfolioSummaryFullexcessliquidity**](PortfolioSummaryFullexcessliquidity.md) |  |  [optional] |
+|**fullexcessliquidityC** | [**PortfolioSummaryFullexcessliquidityC**](PortfolioSummaryFullexcessliquidityC.md) |  |  [optional] |
+|**fullexcessliquidityS** | [**PortfolioSummaryFullexcessliquidityS**](PortfolioSummaryFullexcessliquidityS.md) |  |  [optional] |
+|**fullinitmarginreq** | [**PortfolioSummaryFullinitmarginreq**](PortfolioSummaryFullinitmarginreq.md) |  |  [optional] |
+|**fullinitmarginreqC** | [**PortfolioSummaryFullinitmarginreqC**](PortfolioSummaryFullinitmarginreqC.md) |  |  [optional] |
+|**fullinitmarginreqS** | [**PortfolioSummaryFullinitmarginreqS**](PortfolioSummaryFullinitmarginreqS.md) |  |  [optional] |
+|**fullmaintmarginreq** | [**PortfolioSummaryFullmaintmarginreq**](PortfolioSummaryFullmaintmarginreq.md) |  |  [optional] |
+|**fullmaintmarginreqC** | [**PortfolioSummaryFullmaintmarginreqC**](PortfolioSummaryFullmaintmarginreqC.md) |  |  [optional] |
+|**fullmaintmarginreqS** | [**PortfolioSummaryFullmaintmarginreqS**](PortfolioSummaryFullmaintmarginreqS.md) |  |  [optional] |
+|**grosspositionvalue** | [**PortfolioSummaryGrosspositionvalue**](PortfolioSummaryGrosspositionvalue.md) |  |  [optional] |
+|**grosspositionvalueS** | [**PortfolioSummaryGrosspositionvalueS**](PortfolioSummaryGrosspositionvalueS.md) |  |  [optional] |
+|**guarantee** | [**PortfolioSummaryGuarantee**](PortfolioSummaryGuarantee.md) |  |  [optional] |
+|**guaranteeC** | [**PortfolioSummaryGuaranteeC**](PortfolioSummaryGuaranteeC.md) |  |  [optional] |
+|**guaranteeS** | [**PortfolioSummaryGuaranteeS**](PortfolioSummaryGuaranteeS.md) |  |  [optional] |
+|**highestseverity** | [**PortfolioSummaryHighestseverity**](PortfolioSummaryHighestseverity.md) |  |  [optional] |
+|**indianstockhaircut** | [**PortfolioSummaryIndianstockhaircut**](PortfolioSummaryIndianstockhaircut.md) |  |  [optional] |
+|**indianstockhaircutC** | [**PortfolioSummaryIndianstockhaircutC**](PortfolioSummaryIndianstockhaircutC.md) |  |  [optional] |
+|**indianstockhaircutS** | [**PortfolioSummaryIndianstockhaircutS**](PortfolioSummaryIndianstockhaircutS.md) |  |  [optional] |
+|**initmarginreq** | [**PortfolioSummaryInitmarginreq**](PortfolioSummaryInitmarginreq.md) |  |  [optional] |
+|**initmarginreqC** | [**PortfolioSummaryInitmarginreqC**](PortfolioSummaryInitmarginreqC.md) |  |  [optional] |
+|**initmarginreqS** | [**PortfolioSummaryInitmarginreqS**](PortfolioSummaryInitmarginreqS.md) |  |  [optional] |
+|**leverageS** | [**PortfolioSummaryLeverageS**](PortfolioSummaryLeverageS.md) |  |  [optional] |
+|**lookaheadavailablefunds** | [**PortfolioSummaryLookaheadavailablefunds**](PortfolioSummaryLookaheadavailablefunds.md) |  |  [optional] |
+|**lookaheadavailablefundsC** | [**PortfolioSummaryLookaheadavailablefundsC**](PortfolioSummaryLookaheadavailablefundsC.md) |  |  [optional] |
+|**lookaheadavailablefundsS** | [**PortfolioSummaryLookaheadavailablefundsS**](PortfolioSummaryLookaheadavailablefundsS.md) |  |  [optional] |
+|**lookaheadexcessliquidity** | [**PortfolioSummaryLookaheadexcessliquidity**](PortfolioSummaryLookaheadexcessliquidity.md) |  |  [optional] |
+|**lookaheadexcessliquidityC** | [**PortfolioSummaryLookaheadexcessliquidityC**](PortfolioSummaryLookaheadexcessliquidityC.md) |  |  [optional] |
+|**lookaheadexcessliquidityS** | [**PortfolioSummaryLookaheadexcessliquidityS**](PortfolioSummaryLookaheadexcessliquidityS.md) |  |  [optional] |
+|**lookaheadinitmarginreq** | [**PortfolioSummaryLookaheadinitmarginreq**](PortfolioSummaryLookaheadinitmarginreq.md) |  |  [optional] |
+|**lookaheadinitmarginreqC** | [**PortfolioSummaryLookaheadinitmarginreqC**](PortfolioSummaryLookaheadinitmarginreqC.md) |  |  [optional] |
+|**lookaheadinitmarginreqS** | [**PortfolioSummaryLookaheadinitmarginreqS**](PortfolioSummaryLookaheadinitmarginreqS.md) |  |  [optional] |
+|**lookaheadmaintmarginreq** | [**PortfolioSummaryLookaheadmaintmarginreq**](PortfolioSummaryLookaheadmaintmarginreq.md) |  |  [optional] |
+|**lookaheadmaintmarginreqC** | [**PortfolioSummaryLookaheadmaintmarginreqC**](PortfolioSummaryLookaheadmaintmarginreqC.md) |  |  [optional] |
+|**lookaheadmaintmarginreqS** | [**PortfolioSummaryLookaheadmaintmarginreqS**](PortfolioSummaryLookaheadmaintmarginreqS.md) |  |  [optional] |
+|**lookaheadnextchange** | [**PortfolioSummaryLookaheadnextchange**](PortfolioSummaryLookaheadnextchange.md) |  |  [optional] |
+|**maintmarginreq** | [**PortfolioSummaryMaintmarginreq**](PortfolioSummaryMaintmarginreq.md) |  |  [optional] |
+|**maintmarginreqC** | [**PortfolioSummaryMaintmarginreqC**](PortfolioSummaryMaintmarginreqC.md) |  |  [optional] |
+|**maintmarginreqS** | [**PortfolioSummaryMaintmarginreqS**](PortfolioSummaryMaintmarginreqS.md) |  |  [optional] |
+|**netliquidation** | [**PortfolioSummaryNetliquidation**](PortfolioSummaryNetliquidation.md) |  |  [optional] |
+|**netliquidationC** | [**PortfolioSummaryNetliquidationC**](PortfolioSummaryNetliquidationC.md) |  |  [optional] |
+|**netliquidationS** | [**PortfolioSummaryNetliquidationS**](PortfolioSummaryNetliquidationS.md) |  |  [optional] |
+|**netliquidationuncertainty** | [**PortfolioSummaryNetliquidationuncertainty**](PortfolioSummaryNetliquidationuncertainty.md) |  |  [optional] |
+|**nlvandmargininreview** | [**PortfolioSummaryNlvandmargininreview**](PortfolioSummaryNlvandmargininreview.md) |  |  [optional] |
+|**pasharesvalue** | [**PortfolioSummaryPasharesvalue**](PortfolioSummaryPasharesvalue.md) |  |  [optional] |
+|**pasharesvalueC** | [**PortfolioSummaryPasharesvalueC**](PortfolioSummaryPasharesvalueC.md) |  |  [optional] |
+|**pasharesvalueS** | [**PortfolioSummaryPasharesvalueS**](PortfolioSummaryPasharesvalueS.md) |  |  [optional] |
+|**physicalcertificatevalue** | [**PortfolioSummaryPhysicalcertificatevalue**](PortfolioSummaryPhysicalcertificatevalue.md) |  |  [optional] |
+|**physicalcertificatevalueC** | [**PortfolioSummaryPhysicalcertificatevalueC**](PortfolioSummaryPhysicalcertificatevalueC.md) |  |  [optional] |
+|**physicalcertificatevalueS** | [**PortfolioSummaryPhysicalcertificatevalueS**](PortfolioSummaryPhysicalcertificatevalueS.md) |  |  [optional] |
+|**postexpirationexcess** | [**PortfolioSummaryPostexpirationexcess**](PortfolioSummaryPostexpirationexcess.md) |  |  [optional] |
+|**postexpirationexcessC** | [**PortfolioSummaryPostexpirationexcessC**](PortfolioSummaryPostexpirationexcessC.md) |  |  [optional] |
+|**postexpirationexcessS** | [**PortfolioSummaryPostexpirationexcessS**](PortfolioSummaryPostexpirationexcessS.md) |  |  [optional] |
+|**postexpirationmargin** | [**PortfolioSummaryPostexpirationmargin**](PortfolioSummaryPostexpirationmargin.md) |  |  [optional] |
+|**postexpirationmarginC** | [**PortfolioSummaryPostexpirationmarginC**](PortfolioSummaryPostexpirationmarginC.md) |  |  [optional] |
+|**postexpirationmarginS** | [**PortfolioSummaryPostexpirationmarginS**](PortfolioSummaryPostexpirationmarginS.md) |  |  [optional] |
+|**previousdayequitywithloanvalue** | [**PortfolioSummaryPreviousdayequitywithloanvalue**](PortfolioSummaryPreviousdayequitywithloanvalue.md) |  |  [optional] |
+|**previousdayequitywithloanvalueS** | [**PortfolioSummaryPreviousdayequitywithloanvalueS**](PortfolioSummaryPreviousdayequitywithloanvalueS.md) |  |  [optional] |
+|**regtequity** | [**PortfolioSummaryRegtequity**](PortfolioSummaryRegtequity.md) |  |  [optional] |
+|**regtequityS** | [**PortfolioSummaryRegtequityS**](PortfolioSummaryRegtequityS.md) |  |  [optional] |
+|**regtmargin** | [**PortfolioSummaryRegtmargin**](PortfolioSummaryRegtmargin.md) |  |  [optional] |
+|**regtmarginS** | [**PortfolioSummaryRegtmarginS**](PortfolioSummaryRegtmarginS.md) |  |  [optional] |
+|**segmenttitleC** | [**PortfolioSummarySegmenttitleC**](PortfolioSummarySegmenttitleC.md) |  |  [optional] |
+|**segmenttitleS** | [**PortfolioSummarySegmenttitleS**](PortfolioSummarySegmenttitleS.md) |  |  [optional] |
+|**sma** | [**PortfolioSummarySma**](PortfolioSummarySma.md) |  |  [optional] |
+|**smaS** | [**PortfolioSummarySmaS**](PortfolioSummarySmaS.md) |  |  [optional] |
+|**totalcashvalue** | [**PortfolioSummaryTotalcashvalue**](PortfolioSummaryTotalcashvalue.md) |  |  [optional] |
+|**totalcashvalueC** | [**PortfolioSummaryTotalcashvalueC**](PortfolioSummaryTotalcashvalueC.md) |  |  [optional] |
+|**totalcashvalueS** | [**PortfolioSummaryTotalcashvalueS**](PortfolioSummaryTotalcashvalueS.md) |  |  [optional] |
+|**totaldebitcardpendingcharges** | [**PortfolioSummaryTotaldebitcardpendingcharges**](PortfolioSummaryTotaldebitcardpendingcharges.md) |  |  [optional] |
+|**totaldebitcardpendingchargesC** | [**PortfolioSummaryTotaldebitcardpendingchargesC**](PortfolioSummaryTotaldebitcardpendingchargesC.md) |  |  [optional] |
+|**totaldebitcardpendingchargesS** | [**PortfolioSummaryTotaldebitcardpendingchargesS**](PortfolioSummaryTotaldebitcardpendingchargesS.md) |  |  [optional] |
+|**tradingtypeS** | [**PortfolioSummaryTradingtypeS**](PortfolioSummaryTradingtypeS.md) |  |  [optional] |
+|**whatifpmenabled** | [**PortfolioSummaryWhatifpmenabled**](PortfolioSummaryWhatifpmenabled.md) |  |  [optional] |
+
+
+
